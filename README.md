@@ -2,4 +2,6 @@
 - Atualmente desenvolvedor full stack
 -  react js / sql / typescript / react native
 
+learning ruby
+
 
